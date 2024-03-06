@@ -1,4 +1,4 @@
-![logo]([https://github.com/Mahyar-mhn/Mahyar-mhn/blob/main/main.jpg](https://github.com/Mahyar-mhn/Mahyar-mhn/blob/main/main.jpg))
+![logo](https://github.com/Mahyar-mhn/Mahyar-mhn/blob/main/s.jpg)
 <h1 align="center">Hi 👋, I'm Mahyar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahyar-mhn&label=Profile%20views&color=0e75b6&style=flat" alt="mahyar-mhn" /> </p>
 
