@@ -105,8 +105,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahyar-mhn&show_icons=true&locale=en&layout=compact" alt="mahyar-mhn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahyar-mhn&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahyar-mhn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahyar-mhn&show_icons=true&locale=en" alt="mahyar-mhn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahyar-mhn&show_icons=true&locale=en&theme=dark" alt="mahyar-mhn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahyar-mhn&" alt="mahyar-mhn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahyar-mhn&show_icons=true&locale=en&theme=dark" alt="mahyar-mhn" /></p>
