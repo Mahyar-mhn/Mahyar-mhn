@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning, Professional Python, Django, Spring, Javafx, Cpp, Js...**
+- 🌱 I’m currently learning **Machine Learning, Deep learning, Professional Python, Django,...**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
