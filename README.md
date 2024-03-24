@@ -55,6 +55,6 @@
 [![Matlab](https://img.shields.io/badge/matlab-%2300599C.svg?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahyar-mhn&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mahyar-mhn&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahyar-mhn&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahyar-mhn&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahyar-mhn&theme=highcontrast&hide_border=false&include_all_commits=true&count=6_private=false&layout=compact)
