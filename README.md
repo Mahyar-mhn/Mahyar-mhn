@@ -14,7 +14,7 @@
 </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Machine Learning, Deep learning, Professional Python, Django,...**<br><br>- 👯 I’m looking to collaborate on **Machine Learning Projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Mahyar-mhn](https://github.com/Mahyar-mhn)<br><br>- 💬 Ask me about **Tkinter, Python, Javafx**<br><br>- 📫 How to reach me **mhn.mahyarmohammadian1383@gmail.com**<br><br>- ⚡ Fun fact **Want to play soccer? Just call me:)**
+- 🌱 I’m currently learning **Machine Learning, Deep learning, Professional Python, Django,...**<br><br>- 👯 I’m looking to collaborate on **Machine Learning Projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Mahyar-mhn](https://github.com/Mahyar-mhn)<br><br>- 💬 Ask me about **Tkinter, Python, Javafx**<br><br>- 📫 How to reach me **mhn.mahyarmohammadian1383@gmail.com**<br><br>
 
 
 
