@@ -7,12 +7,6 @@
 </p>
 
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-
 # 💫 About Me:
 - 🌱 I’m currently learning **Machine Learning, Deep learning, AI in healthcare...**<br><br>- 👯 I’m looking to collaborate on **Machine Learning Projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Mahyar-mhn](https://github.com/Mahyar-mhn)<br><br>- 💬 Ask me about **Sklearn, Pytorch, TensorFlow**<br><br>- 📫 How to reach me **mhn.mahyarmohammadian1383@gmail.com**<br><br>
 
